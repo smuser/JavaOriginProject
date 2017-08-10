@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-2.53.1/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/file-utils.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/fitnesse-standalone.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/htmlunit-driver-2.27-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/ITAS.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/jacob.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/java-client-4.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/java-util-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/mail.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/mailapi.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/maven-eclipse-plugin-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/MonteScreenRecorder.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/MovieMaker.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/pdfbox-app-2.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/pdfbox-app-2.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-server-standalone-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/selenium-server-standalone-3.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/soapui-pro-5.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/testng-6.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/SofwareSelenium/jarfiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
